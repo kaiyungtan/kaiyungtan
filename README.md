@@ -32,7 +32,7 @@ src="https://user-images.githubusercontent.com/69633814/97295252-57d51f00-184f-1
 
 <img align="left" alt="GitHub" title="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="shell" title="shell" width="46px" 
+<img align="left" alt="shell" title="shell" width="50px" 
 src="https://user-images.githubusercontent.com/69633814/97297847-dbdcd600-1852-11eb-805f-b1e7bcf2f1de.jpg" />
 
 <img align="left" alt="Sciki-Learn" title="Sciki-Learn" width="46px" 
