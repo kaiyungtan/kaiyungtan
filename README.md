@@ -21,7 +21,7 @@
 
 <img align="left" alt="Python 3" title="Python 3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="SQL" title="SQL" width="36px" 
+<img align="left" alt="SQL" title="SQL" width="46px" 
 src="https://user-images.githubusercontent.com/69633814/97295580-c7e3a500-184f-11eb-94d9-1a59c78e594d.png" />
 
 <img align="left" alt="Jupyter Notebook" title="Jupyter Notebook" width="36px" 
@@ -32,7 +32,7 @@ src="https://user-images.githubusercontent.com/69633814/97295252-57d51f00-184f-1
 
 <img align="left" alt="GitHub" title="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="Sciki-Learn" title="Sciki-Learn" width="36px" 
+<img align="left" alt="Sciki-Learn" title="Sciki-Learn" width="46px" 
 src="https://user-images.githubusercontent.com/69633814/97294724-a8984800-184e-11eb-9496-b4e65a82e8dd.png" />
 
 <img align="left" alt="tableau" title="tableau" width="36px" 
