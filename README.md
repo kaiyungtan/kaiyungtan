@@ -35,7 +35,7 @@ src="https://user-images.githubusercontent.com/69633814/97295252-57d51f00-184f-1
 <img align="left" alt="Sciki-Learn" title="Sciki-Learn" width="46px" 
 src="https://user-images.githubusercontent.com/69633814/97294724-a8984800-184e-11eb-9496-b4e65a82e8dd.png" />
 
-<img align="left" alt="TensorFlow" title="TensorFlow" width="46px" 
+<img align="left" alt="TensorFlow" title="TensorFlow" width="36px" 
 src="https://user-images.githubusercontent.com/69633814/97296183-9ae3c200-1850-11eb-8567-e959fcc95992.png" />
 
 <img align="left" alt="tableau" title="tableau" width="36px" 
