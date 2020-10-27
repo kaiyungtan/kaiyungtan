@@ -25,3 +25,8 @@
 
 <img align="left" alt="tableau" title="tableau" width="26px" 
 src="https://user-images.githubusercontent.com/69633814/97294118-ddf06600-184d-11eb-84bf-12d6c7633927.jpg" />
+
+<img align="left" alt="PowerBI" title="PowerBI" width="26px" 
+src="https://user-images.githubusercontent.com/69633814/97294440-493a3800-184e-11eb-851d-9c43ad2aa195.jpg" />
+
+
