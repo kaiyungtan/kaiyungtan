@@ -21,7 +21,7 @@
 
 <img align="left" alt="Python 3" title="Python 3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="SQL" title="SQL" width="46px" 
+<img align="left" alt="SQL" title="SQL" width="50px" 
 src="https://user-images.githubusercontent.com/69633814/97295580-c7e3a500-184f-11eb-94d9-1a59c78e594d.png" />
 
 <img align="left" alt="Jupyter Notebook" title="Jupyter Notebook" width="36px" 
