@@ -7,7 +7,7 @@
 - 📕 My eportfolio on completed machine learning projects. @ [mygreatlearning.com](https://eportfolio.greatlearning.in/tan-kai-yung)
 - 🥅 My completed tracks & courses. @ [datacamp.com](https://www.datacamp.com/profile/adamtky)
 - 📫 How to reach me: [kaiyungtan2020@gmail.com](mailto:kaiyungtan2020@gmail.com)
-- ⚡ Fun fact: I love traveling and musicals.👯
+- ⚡ Fun fact: I love traveling and musicals.
 
 ### Connect with me:
 
