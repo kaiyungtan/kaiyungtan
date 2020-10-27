@@ -30,7 +30,7 @@ src="https://user-images.githubusercontent.com/69633814/97295243-5572c500-184f-1
 <img align="left" alt="Google Colab" title="Google Colab" width="36px" 
 src="https://user-images.githubusercontent.com/69633814/97295252-57d51f00-184f-11eb-898e-a9ace4a3c029.png" />
 
-<img align="left" alt="GitHub" title="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" title="GitHub" width="34px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="shell" title="shell" width="50px" 
 src="https://user-images.githubusercontent.com/69633814/97297847-dbdcd600-1852-11eb-805f-b1e7bcf2f1de.jpg" />
@@ -38,7 +38,7 @@ src="https://user-images.githubusercontent.com/69633814/97297847-dbdcd600-1852-1
 <img align="left" alt="Docker" title="Docker" width="36px" 
 src="https://user-images.githubusercontent.com/69633814/97304685-5d853180-185c-11eb-8e40-cb2175ec9589.png" />
 
-<img align="left" alt="flask" title="flask" width="36px" 
+<img align="left" alt="flask" title="flask" width="34px" 
 src="https://user-images.githubusercontent.com/69633814/97304981-cd93b780-185c-11eb-80e1-ad7bca77b4b1.png" />
 
 <img align="left" alt="Sciki-Learn" title="Sciki-Learn" width="46px" 
