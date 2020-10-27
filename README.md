@@ -13,7 +13,7 @@
 
 [linkedin]: https://www.linkedin.com/in/adam-tan-52268744/
 
-
+<br />
 
 ### Languages and Tools:
 
