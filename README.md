@@ -41,6 +41,9 @@ src="https://user-images.githubusercontent.com/69633814/97304685-5d853180-185c-1
 <img align="left" alt="flask" title="flask" width="34px" 
 src="https://user-images.githubusercontent.com/69633814/97304981-cd93b780-185c-11eb-80e1-ad7bca77b4b1.png" />
 
+<img align="left" alt="heroku" title="heroku" width="34px" 
+src="https://user-images.githubusercontent.com/69633814/97306281-8e666600-185e-11eb-9586-c0a64afc398f.png" />
+
 <img align="left" alt="Sciki-Learn" title="Sciki-Learn" width="46px" 
 src="https://user-images.githubusercontent.com/69633814/97294724-a8984800-184e-11eb-9496-b4e65a82e8dd.png" />
 
