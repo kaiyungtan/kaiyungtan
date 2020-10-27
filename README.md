@@ -30,6 +30,12 @@ src="https://user-images.githubusercontent.com/69633814/97295243-5572c500-184f-1
 <img align="left" alt="Google Colab" title="Google Colab" width="36px" 
 src="https://user-images.githubusercontent.com/69633814/97295252-57d51f00-184f-11eb-898e-a9ace4a3c029.png" />
 
+<img align="left" alt="Sciki-Learn" title="Sciki-Learn" width="46px" 
+src="https://user-images.githubusercontent.com/69633814/97294724-a8984800-184e-11eb-9496-b4e65a82e8dd.png" />
+
+<img align="left" alt="TensorFlow" title="TensorFlow" width="30px" 
+src="https://user-images.githubusercontent.com/69633814/97296183-9ae3c200-1850-11eb-8567-e959fcc95992.png" />
+
 <img align="left" alt="GitHub" title="GitHub" width="34px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="shell" title="shell" width="50px" 
@@ -43,12 +49,6 @@ src="https://user-images.githubusercontent.com/69633814/97304981-cd93b780-185c-1
 
 <img align="left" alt="heroku" title="heroku" width="34px" 
 src="https://user-images.githubusercontent.com/69633814/97306510-deddc380-185e-11eb-8290-09bd4bb580b7.png" />
-
-<img align="left" alt="Sciki-Learn" title="Sciki-Learn" width="46px" 
-src="https://user-images.githubusercontent.com/69633814/97294724-a8984800-184e-11eb-9496-b4e65a82e8dd.png" />
-
-<img align="left" alt="TensorFlow" title="TensorFlow" width="30px" 
-src="https://user-images.githubusercontent.com/69633814/97296183-9ae3c200-1850-11eb-8567-e959fcc95992.png" />
 
 <img align="left" alt="tableau" title="tableau" width="36px" 
 src="https://user-images.githubusercontent.com/69633814/97294118-ddf06600-184d-11eb-84bf-12d6c7633927.jpg" />
