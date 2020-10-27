@@ -42,7 +42,7 @@ src="https://user-images.githubusercontent.com/69633814/97304685-5d853180-185c-1
 src="https://user-images.githubusercontent.com/69633814/97304981-cd93b780-185c-11eb-80e1-ad7bca77b4b1.png" />
 
 <img align="left" alt="heroku" title="heroku" width="40px" 
-src="https://user-images.githubusercontent.com/69633814/97306281-8e666600-185e-11eb-9586-c0a64afc398f.png" />
+src="https://user-images.githubusercontent.com/69633814/97306510-deddc380-185e-11eb-8290-09bd4bb580b7.png" />
 
 <img align="left" alt="Sciki-Learn" title="Sciki-Learn" width="46px" 
 src="https://user-images.githubusercontent.com/69633814/97294724-a8984800-184e-11eb-9496-b4e65a82e8dd.png" />
