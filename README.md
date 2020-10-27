@@ -21,6 +21,12 @@
 
 <img align="left" alt="Python 3" title="Python 3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
+<img align="left" alt="Jupyter Notebook" title="Jupyter Notebook" width="36px" 
+src="https://user-images.githubusercontent.com/69633814/97295243-5572c500-184f-11eb-8830-5c0b6aea7151.png" />
+
+<img align="left" alt="Google Colab" title="Google Colab" width="36px" 
+src="https://user-images.githubusercontent.com/69633814/97295252-57d51f00-184f-11eb-898e-a9ace4a3c029.png" />
+
 <img align="left" alt="GitHub" title="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="Sciki-Learn" title="Sciki-Learn" width="36px" 
@@ -31,5 +37,3 @@ src="https://user-images.githubusercontent.com/69633814/97294118-ddf06600-184d-1
 
 <img align="left" alt="PowerBI" title="PowerBI" width="36px" 
 src="https://user-images.githubusercontent.com/69633814/97294440-493a3800-184e-11eb-851d-9c43ad2aa195.jpg" />
-
-
