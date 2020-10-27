@@ -35,7 +35,7 @@ src="https://user-images.githubusercontent.com/69633814/97295252-57d51f00-184f-1
 <img align="left" alt="shell" title="shell" width="50px" 
 src="https://user-images.githubusercontent.com/69633814/97297847-dbdcd600-1852-11eb-805f-b1e7bcf2f1de.jpg" />
 
-<img align="left" alt="Docker" title="Docker" width="36px" 
+<img align="left" alt="Docker" title="Docker" width="40px" 
 src="https://user-images.githubusercontent.com/69633814/97304685-5d853180-185c-11eb-8e40-cb2175ec9589.png" />
 
 <img align="left" alt="flask" title="flask" width="34px" 
