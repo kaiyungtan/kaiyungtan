@@ -1,6 +1,6 @@
 ### Hi there, I'm Kai Yung - aka Adam 👋
 
-### I'm a learner, aspired data analyst and currently looking for a job.
+### I'm an aspired data analyst and currently looking for a job.
 
 - 🔭 I’m currently working on 3D Houses Project.
 - 🌱 I’m currently learning AI/Machine Learning @ [becode.org](https://becode.org)
