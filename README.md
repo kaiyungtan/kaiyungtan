@@ -3,7 +3,8 @@
 ### I'm a learner , data enthusiast and currently looking for a job.
 
 - 🔭 I’m currently working on 3D Houses Project.
-- 🌱 I’m currently learning AI/Machine Leaning @ [becode.org](https://becode.org)
+- 🌱 I’m learning AI/Machine Leaning @ [becode.org](https://becode.org)
+- 🥅 My eportfolio on completed machine leanrning projects. @ [mygreatlearning.com](https://eportfolio.greatlearning.in/tan-kai-yung)
 - 📫 How to reach me: [kaiyungtan2020@gmail.com](mailto:kaiyungtan2020@gmail.com)
 - ⚡ Fun fact: I love traveling and musicals.
 
