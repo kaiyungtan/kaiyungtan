@@ -24,7 +24,7 @@
 <img align="left" alt="GitHub" title="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="Sciki-Learn" title="Sciki-Learn" width="36px" 
-src="hhttps://user-images.githubusercontent.com/69633814/97294724-a8984800-184e-11eb-9496-b4e65a82e8dd.png" />
+src="https://user-images.githubusercontent.com/69633814/97294724-a8984800-184e-11eb-9496-b4e65a82e8dd.png" />
 
 <img align="left" alt="tableau" title="tableau" width="36px" 
 src="https://user-images.githubusercontent.com/69633814/97294118-ddf06600-184d-11eb-84bf-12d6c7633927.jpg" />
