@@ -22,6 +22,9 @@ src="https://user-images.githubusercontent.com/69633814/97322052-b5796380-186f-1
 
 <img align="left" alt="Python 3" title="Python 3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
+<img align="left" alt="Python 3" title="Python 3" width="36px" 
+src="https://user-images.githubusercontent.com/69633814/97344021-7e637c00-1888-11eb-9cd6-ac6cc910bea4.png" />
+
 <img align="left" alt="Jupyter Notebook" title="Jupyter Notebook" width="36px" 
 src="https://user-images.githubusercontent.com/69633814/97295243-5572c500-184f-11eb-8830-5c0b6aea7151.png" />
 
