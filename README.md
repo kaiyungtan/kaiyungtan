@@ -1,4 +1,4 @@
-## Hi there, I'm Kai Yung - aka Adam 👋
+## Hi there, I'm Kai Yung - aka Adam 🖖
 
 ### I'm an aspired data analyst and currently looking for a job.
 
