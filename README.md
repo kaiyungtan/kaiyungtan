@@ -22,9 +22,6 @@ src="https://user-images.githubusercontent.com/69633814/97322052-b5796380-186f-1
 
 <img align="left" alt="Python 3" title="Python 3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="SQL" title="SQL" width="50px" 
-src="https://user-images.githubusercontent.com/69633814/97295580-c7e3a500-184f-11eb-94d9-1a59c78e594d.png" />
-
 <img align="left" alt="Jupyter Notebook" title="Jupyter Notebook" width="36px" 
 src="https://user-images.githubusercontent.com/69633814/97295243-5572c500-184f-11eb-8830-5c0b6aea7151.png" />
 
@@ -38,9 +35,6 @@ src="https://user-images.githubusercontent.com/69633814/97294724-a8984800-184e-1
 src="https://user-images.githubusercontent.com/69633814/97296183-9ae3c200-1850-11eb-8567-e959fcc95992.png" />
 
 <img align="left" alt="GitHub" title="GitHub" width="34px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="shell" title="shell" width="50px" 
-src="https://user-images.githubusercontent.com/69633814/97297847-dbdcd600-1852-11eb-805f-b1e7bcf2f1de.jpg" />
 
 <img align="left" alt="Docker" title="Docker" width="40px" 
 src="https://user-images.githubusercontent.com/69633814/97304685-5d853180-185c-11eb-8e40-cb2175ec9589.png" />
