@@ -1,9 +1,6 @@
 ### Hi there, I'm Kai Yung - aka Adam 👋
 
-<!--
-**kaiyungtan/kaiyungtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## I'm a learner , data enthusiast and currently looking for a job.
 
 - 🔭 I’m currently working on 3D Houses Project.
 - 🌱 I’m currently learning AI/Machine Leaning @ [becode.org](https://becode.org)
