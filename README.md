@@ -19,14 +19,17 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python 3" title="Python 3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python 3" title="Python 3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" title="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="tableau" title="tableau" width="26px" 
+<img align="left" alt="Sciki-Learn" title="Sciki-Learn" width="36px" 
+src="hhttps://user-images.githubusercontent.com/69633814/97294724-a8984800-184e-11eb-9496-b4e65a82e8dd.png" />
+
+<img align="left" alt="tableau" title="tableau" width="36px" 
 src="https://user-images.githubusercontent.com/69633814/97294118-ddf06600-184d-11eb-84bf-12d6c7633927.jpg" />
 
-<img align="left" alt="PowerBI" title="PowerBI" width="26px" 
+<img align="left" alt="PowerBI" title="PowerBI" width="36px" 
 src="https://user-images.githubusercontent.com/69633814/97294440-493a3800-184e-11eb-851d-9c43ad2aa195.jpg" />
 
 
