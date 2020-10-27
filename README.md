@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="24px" src="httphttps://user-images.githubusercontent.com/69633814/97322052-b5796380-186f-11eb-820a-ad1b720c49d3.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/adam-tan-52268744/
 
