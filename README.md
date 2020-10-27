@@ -35,6 +35,12 @@ src="https://user-images.githubusercontent.com/69633814/97295252-57d51f00-184f-1
 <img align="left" alt="shell" title="shell" width="50px" 
 src="https://user-images.githubusercontent.com/69633814/97297847-dbdcd600-1852-11eb-805f-b1e7bcf2f1de.jpg" />
 
+<img align="left" alt="Docker" title="Docker" width="36px" 
+src="https://user-images.githubusercontent.com/69633814/97304685-5d853180-185c-11eb-8e40-cb2175ec9589.png" />
+
+<img align="left" alt="flask" title="flask" width="36px" 
+src="https://user-images.githubusercontent.com/69633814/97294440-493a3800-184e-11eb-851d-9c43ad2aa195.jpg" />
+
 <img align="left" alt="Sciki-Learn" title="Sciki-Learn" width="46px" 
 src="https://user-images.githubusercontent.com/69633814/97294724-a8984800-184e-11eb-9496-b4e65a82e8dd.png" />
 
@@ -46,3 +52,5 @@ src="https://user-images.githubusercontent.com/69633814/97294118-ddf06600-184d-1
 
 <img align="left" alt="PowerBI" title="PowerBI" width="36px" 
 src="https://user-images.githubusercontent.com/69633814/97294440-493a3800-184e-11eb-851d-9c43ad2aa195.jpg" />
+
+
