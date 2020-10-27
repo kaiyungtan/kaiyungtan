@@ -32,7 +32,7 @@ src="https://user-images.githubusercontent.com/69633814/97295252-57d51f00-184f-1
 
 <img align="left" alt="GitHub" title="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="shell" title="shell" width="36px" 
+<img align="left" alt="shell" title="shell" width="46px" 
 src="https://user-images.githubusercontent.com/69633814/97297588-86082e00-1852-11eb-8089-7ea2105fed60.png" />
 
 
