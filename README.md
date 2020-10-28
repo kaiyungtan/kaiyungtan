@@ -58,4 +58,4 @@ src="https://user-images.githubusercontent.com/69633814/97294440-493a3800-184e-1
 <br />
 <br />
 
-[![Adam's github stats](https://github-readme-stats.vercel.app/api?username=kaiyungtan&show_icons=true&theme=merko)](https://github.com/kaiyungtan/github-readme-stats)
+[![Adam's github stats](https://github-readme-stats.vercel.app/api?username=kaiyungtan&show_icons=true&theme=gruvbox)](https://github.com/kaiyungtan/github-readme-stats)
