@@ -55,3 +55,4 @@ src="https://user-images.githubusercontent.com/69633814/97294118-ddf06600-184d-1
 src="https://user-images.githubusercontent.com/69633814/97294440-493a3800-184e-11eb-851d-9c43ad2aa195.jpg" />
 
 
+[![Adam's github stats](https://github-readme-stats.vercel.app/api?username=kaiyungtan)](https://github.com/kaiyungtan/github-readme-stats)
