@@ -2,7 +2,7 @@
 
 ### I'm an aspired data analyst and currently looking for a job.
 
-- 🔭 I’m currently working on 3D Houses Project.🏠
+- 🔭 I’m currently working on 3D Houses Project.🏠 @[3D Houses](https://github.com/kaiyungtan/3D_houses)
 - 🌱 I’m currently learning AI/Machine Learning @ [becode.org](https://becode.org)
 - 📕 My eportfolio on completed machine learning projects. @ [mygreatlearning.com](https://eportfolio.greatlearning.in/tan-kai-yung)
 - 🥅 My completed tracks & courses. @ [datacamp.com](https://www.datacamp.com/profile/adamtky)
