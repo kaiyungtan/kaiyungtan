@@ -3,7 +3,7 @@
 ### I'm an aspired data analyst/scientist who is currently pursuing a new career in data science. 
 
 - 🔭 I’m currently working on 3D Houses Project.🏠 @[3D Houses](https://github.com/kaiyungtan/3D_houses)
-- 🌱 I’m currently learning AI/Machine Learning @ [becode.org](https://becode.org)
+- 🌱 I’m currently learning AI/Machine Learning @ [becode.org](https://becode.org/learn/ai-bootcamp/)
 - 📕 My eportfolio on completed machine learning projects. @ [mygreatlearning.com](https://eportfolio.greatlearning.in/tan-kai-yung)
 - 🥅 I’m currently following Machine Learning Scientist with Python track. @ [datacamp.com](https://www.datacamp.com/profile/adamtky)
 - 🛤️ Recent completed track : Natural Language Processing in Python.@ [NLP](https://www.datacamp.com/statement-of-accomplishment/track/500250da9b8843870c7a4e448afad34f2cd6b799) @ [Data Analyst](https://www.datacamp.com/statement-of-accomplishment/track/e1632557a2a9c87c3d36275d0efce22af87c3ca3) @ [Data Scientist](https://www.datacamp.com/statement-of-accomplishment/track/eca80071eb0cb80b238983e5c42c9208223940cd)
