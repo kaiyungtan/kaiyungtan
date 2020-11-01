@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning AI/Machine Learning @ [becode.org](https://becode.org)
 - 📕 My eportfolio on completed machine learning projects. @ [mygreatlearning.com](https://eportfolio.greatlearning.in/tan-kai-yung)
 - 🥅 I’m currently pursuing Machine Learning Scientist with Python track. @ [datacamp.com](https://www.datacamp.com/profile/adamtky)
+- 🛤️ Recent completed track : Natural Language Processing in Python.@ [NLP](https://www.datacamp.com/statement-of-accomplishment/track/500250da9b8843870c7a4e448afad34f2cd6b799)
 - 📫 How to reach me @ [email address](mailto:kaiyungtan2020@gmail.com)
 - ⚡ Fun fact: I love traveling and musicals.
 
