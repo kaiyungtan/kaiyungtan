@@ -19,6 +19,13 @@ src="https://user-images.githubusercontent.com/69633814/97322052-b5796380-186f-1
 
 [linkedin]: https://www.linkedin.com/in/adam-tan-52268744/
 
+[<img align="left" alt="adam tan" width="30px" 
+src="https://user-images.githubusercontent.com/69633814/98401857-a318da00-2066-11eb-8336-21de6836f8cc.png" />][kaggle]
+
+[linkedin]: https://www.kaggle.com/kaiyungtan
+
+
+
 <br />
 
 ### Languages and Tools:
