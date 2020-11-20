@@ -8,7 +8,7 @@
 - 🥅 I’m currently following Machine Learning Scientist with Python track. @ [datacamp.com](https://www.datacamp.com/profile/adamtky)
 - 🛤️ Recent completed tracks : Natural Language Processing in Python.@ [NLP](https://www.datacamp.com/statement-of-accomplishment/track/500250da9b8843870c7a4e448afad34f2cd6b799) @ [Data Analyst](https://www.datacamp.com/statement-of-accomplishment/track/e1632557a2a9c87c3d36275d0efce22af87c3ca3) @ [Data Scientist](https://www.datacamp.com/statement-of-accomplishment/track/eca80071eb0cb80b238983e5c42c9208223940cd) @ [Python](https://www.datacamp.com/statement-of-accomplishment/track/3600f671b084ae2ec3d20a788619036526198edd)
 - 📊 My works on tableau @ [tableau](https://public.tableau.com/profile/kai.yung5612#!/)
-- 🚀 My first API deployment  @ [Heroku](https://kaiyung-flask-api.herokuapp.com/)
+- 🚀 Heroku API deployment  @ [Flask API](https://kaiyung-flask-api.herokuapp.com/) @ [ImmoEliza Real Estate](https://immoeliza-real-estate.herokuapp.com/)
 - 📫 How to reach me: @ [Adam's Email](mailto:kaiyungtan2020@gmail.com)
 - ⚡ Fun fact: I love traveling and musicals.
 
