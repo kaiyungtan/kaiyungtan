@@ -2,7 +2,7 @@
 
 ### I'm an aspired data analyst/scientist who is currently pursuing a new career in data science. 
 
-- 🔭 I’m currently working on Real Estate Price Prediction.🏠 @[Real Estate Price Prediction](https://github.com/kaiyungtan/ImmoEliza-API)
+- 🔭 I’m currently working on Social Media Scanner.🔎 @[Social Media Scanner](https://github.com/kaiyungtan/Social-Media-Scanner)
 - 🌱 I’m currently learning AI/Machine Learning @ [becode.org](https://becode.org/learn/ai-bootcamp/)
 - 📕 My eportfolio on completed machine learning projects. @ [mygreatlearning.com](https://eportfolio.greatlearning.in/tan-kai-yung)
 - 🥅 I’m currently following Machine Learning Scientist with Python track. @ [datacamp.com](https://www.datacamp.com/profile/adamtky)
