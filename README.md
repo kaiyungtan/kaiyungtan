@@ -1,6 +1,6 @@
 ## Hi there, I'm Kai Yung - aka Adam 🖖
 
-### I'm an aspired data analyst/scientist who is currently pursuing a new career in data science. 
+### I'm an aspired data analyst/machine learning engineer/scientist who is currently pursuing a new career in data science. 
 
 - 🔭 I’m currently working on Credic Card Customer Segmentation.🔎 @[Credit Card Customer Segmentation](https://github.com/kaiyungtan/Credit-Card-Customer-Segmentation)
 - 🌱 I’m currently learning AI/Machine Learning @ [becode.org](https://becode.org/learn/ai-bootcamp/)
