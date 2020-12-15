@@ -2,12 +2,11 @@
 
 ### I'm an aspired data analyst/machine learning engineer/scientist who is currently pursuing a new career in data science. 
 
-- 🔭 I’m currently working on Credic Card Customer Segmentation.🔎 @[Credit Card Customer Segmentation](https://github.com/kaiyungtan/Credit-Card-Customer-Segmentation)
+- 🔭 I’m currently working on Credit Card Customer Segmentation.🔎 @[Credit Card Customer Segmentation](https://github.com/kaiyungtan/Credit-Card-Customer-Segmentation)
 - 🌱 I’m currently learning AI/Machine Learning @ [becode.org](https://becode.org/learn/ai-bootcamp/)
 - 📕 My eportfolio on completed machine learning projects. @ [mygreatlearning.com](https://eportfolio.greatlearning.in/tan-kai-yung)
 - 🥅 I’m currently following Machine Learning Scientist with Python track. @ [datacamp.com](https://www.datacamp.com/profile/adamtky)
 - 🚀 Heroku API deployment  @ [Flask API](https://kaiyung-flask-api.herokuapp.com/) @ [ImmoEliza Real Estate](https://immoeliza-real-estate.herokuapp.com/)@[Social Media Scanner](https://social-media-scanner.herokuapp.com)
-
 - 🛤️ Recent completed tracks :@ [NLP](https://www.datacamp.com/statement-of-accomplishment/track/500250da9b8843870c7a4e448afad34f2cd6b799) @ [Data Analyst](https://www.datacamp.com/statement-of-accomplishment/track/e1632557a2a9c87c3d36275d0efce22af87c3ca3) @ [Data Scientist](https://www.datacamp.com/statement-of-accomplishment/track/eca80071eb0cb80b238983e5c42c9208223940cd) @ [Python](https://www.datacamp.com/statement-of-accomplishment/track/3600f671b084ae2ec3d20a788619036526198edd)
 - 📊 My works on tableau @ [Tableau](https://public.tableau.com/profile/kai.yung5612#!/)
 - 📫 How to reach me: @ [Adam's Email](mailto:kaiyungtan2020@gmail.com)
@@ -24,7 +23,6 @@ src="https://user-images.githubusercontent.com/69633814/97322052-b5796380-186f-1
 src="https://user-images.githubusercontent.com/69633814/98401857-a318da00-2066-11eb-8336-21de6836f8cc.png" />][kaggle]
 
 [kaggle]: https://www.kaggle.com/kaiyungtan
-
 
 
 <br />
