@@ -2,7 +2,7 @@
 
 ### I'm an aspired data analyst/machine learning engineer/data scientist who is currently pursuing a new career in data science. 
 
-- 🌱 I’m currently learning AI/Machine Learning @ [becode.org](https://becode.org/learn/ai-bootcamp/)
+- 🌱 I’m currently working as Python Developer Intern @ [Mediascale](http://mediascale.be)
 - 🥅 I’m currently following Marketing Analytics with Python track. @ [datacamp.com](https://www.datacamp.com/profile/adamtky)
 - 📕 My eportfolio on completed machine learning projects. @ [mygreatlearning.com](https://eportfolio.greatlearning.in/tan-kai-yung)
 - 🚀 Heroku API deployment  @ [Flask API](https://kaiyung-flask-api.herokuapp.com/) @ [ImmoEliza Real Estate](https://immoeliza-real-estate.herokuapp.com/)@[Social Media Scanner](https://social-media-scanner.herokuapp.com)
