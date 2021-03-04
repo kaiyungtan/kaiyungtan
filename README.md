@@ -1,6 +1,6 @@
 ## Hi there, I'm Kai Yung - aka Adam 🖖
 
-### I'm an aspired data analyst/machine learning engineer/data scientist who is currently pursuing a new career in data science. 
+### I'm an aspired data analyst/machine learning engineer/data scientist. 
 
 - 🌱 I’m currently working as Python Developer Intern @ [Mediascale](http://mediascale.be)
 - 🥅 I’m currently following Marketing Analytics with Python track. @ [datacamp.com](https://www.datacamp.com/profile/adamtky)
