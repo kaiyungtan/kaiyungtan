@@ -1,8 +1,7 @@
 ## Hi there, I'm Kai Yung - aka Adam 🖖
 
-### I'm an aspired data analyst/machine learning engineer/data scientist. 
 
-- 🌱 I’m currently working as Python Developer Intern @ [Mediascale](http://mediascale.be)
+- 🌱 I’m currently working as Data Scientist @ [Mediascale](http://mediascale.be)
 - 🥅 I’m currently following Marketing Analytics with Python track. @ [datacamp.com](https://www.datacamp.com/profile/adamtky)
 - 📕 My eportfolio on completed machine learning projects. @ [mygreatlearning.com](https://eportfolio.greatlearning.in/tan-kai-yung)
 - 🚀 Heroku API deployment  @ [Flask API](https://kaiyung-flask-api.herokuapp.com/) @ [ImmoEliza Real Estate](https://immoeliza-real-estate.herokuapp.com/)@[Social Media Scanner](https://social-media-scanner.herokuapp.com)
